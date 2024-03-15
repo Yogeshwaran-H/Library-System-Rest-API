@@ -31,8 +31,8 @@ MySQL (for database storage)
 Installation:
 To run this REST API on your system, you need to have the following prerequisites:
 Java (version after 8)
-Grails 2.0.4
-Groovy 4.0.0
+Grails 4.0.0
+Groovy 2.5.8
 MySQL server with workbench
 
 Usage:
